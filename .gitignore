@@ -1,0 +1,10 @@
+*.runs/
+*.bit
+*.bin
+*.mcs
+*.prm
+*.ngc
+*.ngd
+*.dcp
+*.xci
+*.xilinx_design
