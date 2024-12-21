@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../My_Risc.gen/sources_1/ip/DBRAM/sim/DBRAM.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

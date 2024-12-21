@@ -1,0 +1,2 @@
+DBRAM.v,verilog,xil_defaultlib,../../../../My_Risc.gen/sources_1/ip/DBRAM/sim/DBRAM.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
